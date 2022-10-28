@@ -1,7 +1,7 @@
 Hi 👋 
 ==============================
 <h2 align="center">
-@@ -7,7 +7,7 @@ Hi 👋
+Hi 👋
 </h2>
 
 <p align="center">
@@ -12,6 +12,8 @@ Hi 👋
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 I am pursuing my Masters in Computer Science degree from State University of New York at Binghamton. 
 My Interest is more into Software Developement, Machine learning, Deep learning and Data Science
+
+
 * 🌍  I'm based in Mumbai, India
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [patelriddhi1591.com@gmail.com](mailto:patelriddhi1591@gmail.com)
