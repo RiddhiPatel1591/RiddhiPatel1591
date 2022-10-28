@@ -16,7 +16,7 @@ My Interest is more into Software Developement Projects
 
 * 🌍  I'm based in Mumbai, India
 * 🌍  I'm based in Binghamton, New York
-* ✉️  You can contact me at [patelriddhi1591.com@gmail.com](mailto:patelriddhi1591@gmail.com)
+* ✉️  You can contact me at [patelriddhi1591@gmail.com](mailto:patelriddhi1591@gmail.com)
 * 🧠  I'm currently learning Algorithms, Database Systems and Opearting Systems
 * 🤝  I'm open to collaborating on Software Development
 
