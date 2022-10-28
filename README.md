@@ -1,7 +1,7 @@
 Hi 👋 
 ==============================
 <h2 align="center">
-Hi 👋
+ My Profile 👋
 </h2>
 
 <p align="center">
@@ -11,14 +11,14 @@ Hi 👋
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 I am pursuing my Masters in Computer Science degree from State University of New York at Binghamton. 
-My Interest is more into Software Developement, Machine learning, Deep learning and Data Science
+My Interest is more into Software Developement Projects
 
 
 * 🌍  I'm based in Mumbai, India
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [patelriddhi1591.com@gmail.com](mailto:patelriddhi1591@gmail.com)
 * 🧠  I'm currently learning Algorithms, Database Systems and Opearting Systems
-* 🤝  I'm open to collaborating on Software Development Projects
+* 🤝  I'm open to collaborating on Software Development
 
 
 ### Skills
@@ -36,7 +36,5 @@ My Interest is more into Software Developement, Machine learning, Deep learning 
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
 ### Socials
 <p align="left"> <a href="https://www.github.com/RiddhiPatel1591" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/riddhipatel1591" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
